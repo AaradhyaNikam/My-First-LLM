@@ -1,3 +1,16 @@
-You're asking about the conclusion of HTML in a video. The conclusion of HTML is taught in Video 13, specifically from timestamp 520.32 seconds to 522.16 seconds.
+Based on the video subtitle chunks you provided, I'll answer the user's question:
 
-In this video, you'll learn that "HTML has been concluded." So, make sure to check out Video 13 for more information on HTML.
+"Where is html concluded"
+
+The HTML content is concluded in Video 13.
+
+To find out where exactly it starts and ends, we can check the start and end time stamps for Video 13:
+
+Start Time: 520.32 seconds
+End Time: 522.16 seconds
+
+According to the video, at this point, "HTML has been concluded."
+
+You can watch this part of the video by navigating to Video #13 and starting it from timestamp 520.32 seconds.
+
+If you want to find out more about CSS (which is related to HTML), we also have an introductory video on CSS in Video #14, starting at timestamp 2.56 seconds.
